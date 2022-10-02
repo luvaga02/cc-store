@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cc-store/static/css/main.46dc1ecb.css",
-    "main.js": "/cc-store/static/js/main.c01b8121.js",
+    "main.css": "/cc-store/static/css/main.b7fa8ddc.css",
+    "main.js": "/cc-store/static/js/main.0ccc9724.js",
     "static/media/claudiaStore-logo.jpg": "/cc-store/static/media/claudiaStore-logo.655f70ebae1e7d0e88c8.jpg",
     "index.html": "/cc-store/index.html",
-    "main.46dc1ecb.css.map": "/cc-store/static/css/main.46dc1ecb.css.map",
-    "main.c01b8121.js.map": "/cc-store/static/js/main.c01b8121.js.map"
+    "main.b7fa8ddc.css.map": "/cc-store/static/css/main.b7fa8ddc.css.map",
+    "main.0ccc9724.js.map": "/cc-store/static/js/main.0ccc9724.js.map"
   },
   "entrypoints": [
-    "static/css/main.46dc1ecb.css",
-    "static/js/main.c01b8121.js"
+    "static/css/main.b7fa8ddc.css",
+    "static/js/main.0ccc9724.js"
   ]
 }
